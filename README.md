@@ -1,7 +1,7 @@
 # Módulo de Cadastro
 
 Este projeto consiste em um sistema CRUD para o gerenciamento de fornecedores de um laboratório de informática, permitindo a criação, edição e exclusão de cada fornecedor. O sistema está integrado a um sistema anterior de login para administradores, os quais têm a permissão de acessar e realizar inserções, edições ou exclusões de fornecedores.<br> 
-<br>OBS: O PROJETO AINDA SE ENCONTRA EM ANDAMENTO!
+<br>OBS: O PROJETO SE ENCONTRA EM ANDAMENTO!
 
 ## Modelo de domínio do Módulo de Cadastro
 
