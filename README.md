@@ -11,7 +11,9 @@ Nesta seção, é apresentado o Diagrama de Classe (UML), que ilustra a estrutur
 
 ## Tela de Login  
 
-![Tela de Login](/Img/LoginScreen.png)
+![Tela de Login](/Img/LoginScreen.png)<br>
+
+<br>![Tela de Login](/Img/ScreenLoginVideo.gif)
 
 Nesta seção, é necessário que o Administrador faça login de acordo com o seu nome e senha que está na base de dados, caso contrário, o mesmo não terá acesso. No entanto, há uma funcionalidade o qual permite criar uma nova senha.
 
