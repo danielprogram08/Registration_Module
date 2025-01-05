@@ -26,7 +26,7 @@ Nesta seção, é necessário que o Administrador faça login de acordo com o se
 
 - JAVA **(Linguagem Back-End)**
 
-- SPRING **(FrameWork)**
+- SPRING **(FrameWork Back-End)**
 
 - DOCKER **(Ambiente)**
 
