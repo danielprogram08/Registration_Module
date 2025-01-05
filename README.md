@@ -13,13 +13,7 @@ Nesta seção, é apresentado o Diagrama de Classe (UML), que ilustra a estrutur
 
 ![Tela de Login](/Img/LoginScreen.png)
 
-Layout da tela de Login do Administrador do Sistema.
-
-### Login no Sistema
-file:///home/daniel/Documentos/Registration_Module/Img/ScreenLoginVideo.mp4<br>
-OBS: melhor desempenho em 1.25x / 1.5x<br>
-<br>Nesta seção, é necessário que o Administrador faça login de acordo com o seu nome e senha que está na base de dados, caso contrário, o mesmo não terá acesso. No entanto, há uma funcionalidade o qual permite criar uma nova senha.
-
+Nesta seção, é necessário que o Administrador faça login de acordo com o seu nome e senha que está na base de dados, caso contrário, o mesmo não terá acesso. No entanto, há uma funcionalidade o qual permite criar uma nova senha.
 
 ## Tecnologias Utilizadas:
 - Bootstrap **(Framework Front-End)**
